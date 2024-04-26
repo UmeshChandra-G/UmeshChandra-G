@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/UmeshChandra-G/UmeshChandra-G/blob/main/Banner.jpg)
 
 <h1 align="center">Hi 👋, I'm Umesh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
