@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Umesh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/564x/db/43/39/db43397dfb1870ec9ab46d0de9f928a1.jpg">
+<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/2b3YQ6M4PsF1iLsdA">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umeshchandra-g&label=Profile%20views&color=0e75b6&style=flat" alt="umeshchandra-g" /> </p>
 
