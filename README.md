@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Umesh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/hfzcsu8jnfDibLdKA">
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXvjxblu4PKC5ZArJzBYaQieGBET9w7d4BfVGbtCKCH98Bk8LZGwYvLkIdk-poOPVtv3I&usqp=CAU">
 
 
 
